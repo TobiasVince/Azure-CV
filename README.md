@@ -1,2 +1,8 @@
 # Azure-CV
-My CV on azure
+My CV on azure, following [ACG project video.](https://www.youtube.com/watch?v=ieYrBWmkfno)
+
+## First steps
+
+-Frontend folder contains the website 
+
+-main.js contains visitor counter code
